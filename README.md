@@ -1,6 +1,6 @@
 
-# Responsive Grocery Frontend Project
-🙇‍♀️Welcome to the Responsive Grocery Frontend Project! This project aims to provide a responsive frontend solution for an online grocery store, equipped with interactive features and seamless user experience.
+#  Grocery Frontend Project
+🙇‍♀️Welcome to the  Grocery Frontend Project! This project aims to provide a responsive frontend solution for an online grocery store, equipped with interactive features and seamless user experience.
 
 
 
