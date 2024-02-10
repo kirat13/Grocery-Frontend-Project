@@ -27,7 +27,7 @@
 
 ## Usage
 To utilize this project, simply click on the link and paste it to your browser:-
-https://kirat13.github.io/Responsive-Grocery-Frontend-Project/
+ https://kirat13.github.io/Grocery-Frontend-Project/
 
 
 
